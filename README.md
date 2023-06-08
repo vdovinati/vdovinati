@@ -7,13 +7,10 @@
   Привет! Меня зовут Татьяна!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
-- 🔭 I’m currently working on ...
+  ### :woman_technologist: About Me :
+- 🔭 I’m currently working on searching new job.
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 In my free time I read articles about DS.
 - 📫 How to reach me: vdovinati@yandex.ru
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like badgers and samoyeds.
 -->
