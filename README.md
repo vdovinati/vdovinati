@@ -1,7 +1,7 @@
-### Всем привет, меня зовут Татьяна! 👋
+
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>](https://giphy.com/clips/SWAG-football-college-cfb-OPyKRycUNPimEOk9E2)
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 - 🔭 I’m currently working on ...
