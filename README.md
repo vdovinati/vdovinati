@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Data Science
 - 👯 In my free time I read articles about DS.
 - 📫 How to reach me: vdovinati@yandex.ru
-- ⚡ Fun fact: I like badgers and samoyeds.
+- ⚡ Fun fact: I like badgers and samoyed dogs.
 -->
 
 ---
