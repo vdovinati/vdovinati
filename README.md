@@ -1,8 +1,8 @@
-### Hi there 👋
+### Всем привет, меня зовут Татьяна! 👋
 
 <!--
 **vdovinati/vdovinati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data scientist)](https://git.io/typing-svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
