@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/OLw3Xiu6yJjYNmDaZf/giphy.gif" width="100"/>
+  <img src="https://img.freepik.com/premium-vector/technological-revolution-abstract-concept-vector-illustration_107173-25854.jpg?size=626&ext=jpg&ga=GA1.1.1406096023.1686596908&semt=ais"/>
 <div id="badges">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
